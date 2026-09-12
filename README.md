@@ -35,4 +35,4 @@ Full-Stack Development & Modern Web Technologies
 
 ---
 
-### ✨ Code • Learn • Build • Repeat 🚀
+### ✨ Code • Learn • Build  🚀
